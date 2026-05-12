@@ -113,9 +113,13 @@ Fun Fact    : I break things to understand how to protect them 🔐
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CyberSecurity-SuryaSharma&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=1a1aff&text_color=ffffff&cache_seconds=1800"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CyberSecurity-SuryaSharma&theme=tokyonight"/>
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberSecurity-SuryaSharma&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=8&cache_seconds=1800"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CyberSecurity-SuryaSharma&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CyberSecurity-SuryaSharma&theme=tokyonight&utcOffset=8"/>
 </p>
 
 <p align="center">
