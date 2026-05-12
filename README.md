@@ -113,9 +113,9 @@ Fun Fact    : I break things to understand how to protect them 🔐
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CyberSecurity-SuryaSharma&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=1a1aff&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CyberSecurity-SuryaSharma&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=1a1aff&text_color=ffffff&cache_seconds=1800"/>
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberSecurity-SuryaSharma&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberSecurity-SuryaSharma&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=8&cache_seconds=1800"/>
 </p>
 
 <p align="center">
@@ -129,36 +129,6 @@ Fun Fact    : I break things to understand how to protect them 🔐
 <p align="center">
   <img src="https://github.com/CyberSecurity-SuryaSharma/CyberSecurity-SuryaSharma/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
-
-<details>
-<summary>📋 Click to reveal Snake Workflow YAML</summary>
-
-```yaml
-name: Generate Snake Animation
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: CyberSecurity-SuryaSharma
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
 
 ---
 
