@@ -1,21 +1,6 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1aff,100:00d4ff&height=200&section=header&text=Surya%20Sharma&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%7C%20DevSecOps%20%7C%20Educator&descAlignY=58&descSize=20&animation=fadeIn"/>
-</p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1aff,100:00d4ff&height=200&section=header&text=Surya%20Sharma&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%7C%20DevSecOps%20%7C%20Educator&descAlignY=58&descSize=20&animation=fadeIn"/></p>
 
-<p align="center">
-  <a href="https://sharmasurya.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-1a1aff?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-  <a href="https://au.linkedin.com/in/surya-sharma-686a28250" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://staffportal.curtin.edu.au/staff/profile/view/surya-sharma-8dadeec6/" target="_blank">
-    <img src="https://img.shields.io/badge/Curtin%20University-e4a100?style=for-the-badge&logo=academia&logoColor=white"/>
-  </a>
-  <a href="mailto:suryatbc123@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<p align="center"><a href="https://sharmasurya.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-1a1aff?style=for-the-badge&logo=googlechrome&logoColor=white"/></a><a href="https://au.linkedin.com/in/surya-sharma-686a28250" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://staffportal.curtin.edu.au/staff/profile/view/surya-sharma-8dadeec6/" target="_blank"><img src="https://img.shields.io/badge/Curtin%20University-e4a100?style=for-the-badge&logo=academia&logoColor=white"/></a><a href="mailto:suryatbc123@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a></p>
 
 <br/>
 
@@ -90,9 +75,7 @@ Fun Fact    : I break things to understand how to protect them 🔐
 
 ## 🛠️ Tech Stack & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,bash,docker,kubernetes,aws,jenkins,linux,mysql,git,github,vscode&theme=dark&perline=8"/>
-</p>
+<p align="center"><img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,bash,docker,kubernetes,aws,jenkins,linux,mysql,git,github,vscode&theme=dark&perline=8"/></p>
 
 ---
 
@@ -109,27 +92,17 @@ Fun Fact    : I break things to understand how to protect them 🔐
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CyberSecurity-SuryaSharma&theme=tokyonight"/>
-  &nbsp;
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CyberSecurity-SuryaSharma&theme=tokyonight"/>
-</p>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CyberSecurity-SuryaSharma&theme=tokyonight"/><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CyberSecurity-SuryaSharma&theme=tokyonight"/></p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CyberSecurity-SuryaSharma&theme=tokyonight&utcOffset=8"/>
-</p>
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CyberSecurity-SuryaSharma&theme=tokyonight&utcOffset=8"/></p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=CyberSecurity-SuryaSharma&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a1aff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff"/>
-</p>
+<p align="center"><img src="https://streak-stats.demolab.com/?user=CyberSecurity-SuryaSharma&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a1aff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff"/></p>
 
 ---
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://github.com/CyberSecurity-SuryaSharma/CyberSecurity-SuryaSharma/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</p>
+<p align="center"><img src="https://github.com/CyberSecurity-SuryaSharma/CyberSecurity-SuryaSharma/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/></p>
 
 ---
 
@@ -144,28 +117,8 @@ Fun Fact    : I break things to understand how to protect them 🔐
 
 ## 📬 Let's Connect
 
-<p align="center">
-  <a href="https://sharmasurya.com/">
-    <img src="https://img.shields.io/badge/Portfolio-1a1aff?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
+<p align="center"><a href="https://sharmasurya.com/"><img src="https://img.shields.io/badge/Portfolio-1a1aff?style=for-the-badge&logo=googlechrome&logoColor=white"/></a><a href="https://au.linkedin.com/in/surya-sharma-686a28250"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://staffportal.curtin.edu.au/staff/profile/view/surya-sharma-8dadeec6/"><img src="https://img.shields.io/badge/Curtin%20University-e4a100?style=for-the-badge&logo=academia&logoColor=white"/></a><a href="mailto:suryatbc123@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a></p>
 
-  <a href="https://au.linkedin.com/in/surya-sharma-686a28250">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=CyberSecurity-SuryaSharma&label=Profile%20Views&color=1a1aff&style=for-the-badge" alt="profile views"/></p>
 
-  <a href="https://staffportal.curtin.edu.au/staff/profile/view/surya-sharma-8dadeec6/">
-    <img src="https://img.shields.io/badge/Curtin%20University-e4a100?style=for-the-badge&logo=academia&logoColor=white"/>
-  </a>
-
-  <a href="mailto:suryatbc123@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CyberSecurity-SuryaSharma&label=Profile%20Views&color=1a1aff&style=for-the-badge" alt="profile views"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:1a1aff,100:0d1117&height=120&section=footer&animation=fadeIn"/>
-</p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:1a1aff,100:0d1117&height=120&section=footer&animation=fadeIn"/></p>
