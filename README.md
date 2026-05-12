@@ -3,15 +3,15 @@
 </p>
 
 <p align="center">
-  <a href="https://sharmasurya.com/" target="_blank">
+  <a href="https://sharmasurya.com/" target="blank">
     <img src="https://img.shields.io/badge/Portfolio-1a1aff?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://au.linkedin.com/in/surya-sharma-686a28250" target="_blank">
+  <a href="https://au.linkedin.com/in/surya-sharma-686a28250" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://staffportal.curtin.edu.au/staff/profile/view/surya-sharma-8dadeec6/" target="_blank">
+  <a href="https://staffportal.curtin.edu.au/staff/profile/view/surya-sharma-8dadeec6/" target="blank">
     <img src="https://img.shields.io/badge/Curtin%20University-e4a100?style=for-the-badge&logo=academia&logoColor=white"/>
   </a>
   &nbsp;
