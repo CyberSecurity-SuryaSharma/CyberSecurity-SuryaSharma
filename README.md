@@ -4,19 +4,19 @@
 
 <p align="center">
   <a href="https://sharmasurya.com/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-sharmasurya.com-0d1117?style=for-the-badge&labelColor=1a1aff&color=0d1117"/>
+    <img src="https://img.shields.io/badge/Portfolio-1a1aff?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://au.linkedin.com/in/surya-sharma-686a28250" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Surya%20Sharma-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0d1117"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://staffportal.curtin.edu.au/staff/profile/view/surya-sharma-8dadeec6/" target="_blank">
-    <img src="https://img.shields.io/badge/🎓%20Curtin%20University-Staff%20Profile-0d1117?style=for-the-badge&labelColor=e4a100&color=0d1117"/>
+    <img src="https://img.shields.io/badge/Curtin%20University-e4a100?style=for-the-badge&logo=academia&logoColor=white"/>
   </a>
   &nbsp;
   <a href="mailto:suryatbc123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-suryatbc123@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=0d1117"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -93,38 +93,8 @@ Fun Fact    : I break things to understand how to protect them 🔐
 
 ## 🛠️ Tech Stack & Tools
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" title="Python"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" title="Java"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" title="C++"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" title="JavaScript"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" title="HTML5"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" title="CSS3"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45" title="Bash"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" title="Docker"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" height="45" title="Kubernetes"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" title="AWS"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="45" height="45" title="Jenkins"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" title="Linux"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" title="SQL / MySQL"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" title="Git"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" title="GitHub"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" title="VS Code"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,bash,docker,kubernetes,aws,jenkins,linux,mysql,git,github,vscode&theme=dark&perline=8"/>
 </p>
 
 ---
@@ -143,13 +113,13 @@ Fun Fact    : I break things to understand how to protect them 🔐
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=1a1aff&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CyberSecurity-SuryaSharma&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=1a1aff&text_color=ffffff"/>
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberSecurity-SuryaSharma&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=8"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a1aff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff"/>
+  <img src="https://streak-stats.demolab.com/?user=CyberSecurity-SuryaSharma&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a1aff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff"/>
 </p>
 
 ---
@@ -157,10 +127,10 @@ Fun Fact    : I break things to understand how to protect them 🔐
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <img src="https://github.com/CyberSecurity-SuryaSharma/CyberSecurity-SuryaSharma/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
 
-> **To activate the snake:** Go to your repo's **Actions** tab → New Workflow → paste the workflow YAML below → run it manually once.
+> **To activate the snake:** Go to your repo's **Actions** tab → New Workflow → paste the YAML below → commit → click **Run Workflow**.
 
 <details>
 <summary>📋 Click to reveal Snake Workflow YAML</summary>
@@ -178,7 +148,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: YOUR_GITHUB_USERNAME
+          github_user_name: CyberSecurity-SuryaSharma
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
@@ -207,24 +177,24 @@ jobs:
 
 <p align="center">
   <a href="https://sharmasurya.com/">
-    <img src="https://img.shields.io/badge/-sharmasurya.com-1a1aff?style=for-the-badge&logo=Google-Chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-1a1aff?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://au.linkedin.com/in/surya-sharma-686a28250">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://staffportal.curtin.edu.au/staff/profile/view/surya-sharma-8dadeec6/">
-    <img src="https://img.shields.io/badge/-Curtin%20Profile-e4a100?style=for-the-badge&logo=academia&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Curtin%20University-e4a100?style=for-the-badge&logo=academia&logoColor=white"/>
   </a>
   &nbsp;
   <a href="mailto:suryatbc123@gmail.com">
-    <img src="https://img.shields.io/badge/-Email%20Me-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=1a1aff&style=for-the-badge" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=CyberSecurity-SuryaSharma&label=Profile%20Views&color=1a1aff&style=for-the-badge" alt="profile views"/>
 </p>
 
 <p align="center">
