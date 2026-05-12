@@ -130,8 +130,6 @@ Fun Fact    : I break things to understand how to protect them 🔐
   <img src="https://github.com/CyberSecurity-SuryaSharma/CyberSecurity-SuryaSharma/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
 
-> **To activate the snake:** Go to your repo's **Actions** tab → New Workflow → paste the YAML below → commit → click **Run Workflow**.
-
 <details>
 <summary>📋 Click to reveal Snake Workflow YAML</summary>
 
