@@ -96,13 +96,19 @@ Fun Fact    : I break things to understand how to protect them 🔐
 
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CyberSecurity-SuryaSharma&theme=tokyonight&utcOffset=8"/></p>
 
-<p align="center"><img src="https://streak-stats.demolab.com/?user=CyberSecurity-SuryaSharma&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a1aff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff"/></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CyberSecurity-SuryaSharma&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a1aff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff"/></p>
 
 ---
 
 ## 🐍 Contribution Snake
 
-<p align="center"><img src="https://github.com/CyberSecurity-SuryaSharma/CyberSecurity-SuryaSharma/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/></p>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CyberSecurity-SuryaSharma/CyberSecurity-SuryaSharma/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CyberSecurity-SuryaSharma/CyberSecurity-SuryaSharma/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/CyberSecurity-SuryaSharma/CyberSecurity-SuryaSharma/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+</picture>
+</p>
 
 ---
 
