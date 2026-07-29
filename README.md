@@ -11,7 +11,7 @@
 ```yaml
 Name        : Surya Sharma
 Location    : Perth, Western Australia 🇦🇺
-Role        : Casual Lecturer @ Curtin University | Full Time Devloper Engineer
+Role        : Casual Lecturer @ Curtin University | Full Time Developer Engineer
 Focus       : Cybersecurity · DevSecOps · Linux Security · Cloud · Web Dev
 Education   :
   - MSc Computing (Cybersecurity) — Curtin University (2022–2024)
